@@ -17,15 +17,27 @@ This is the project of the game Wordle made using OOP.
 Check out his [Wordle](https://github.com/AC17dollars/cpp-wordle-clone.git) repository.
 
 
+**076 BEI**
+
 Another C++ project is 128game by [Rijan Ghimire](https://github.com/rijan7ghimire) and his team.
 
 check out his [128 game](https://github.com/rijan7ghimire/128game) repository.
+
 
 **076 BCT**
 
 This C++ project is a Piano. Yes a Piano By Sushak Ghimire and his team.
 
 check his [Piano](https://gitlab.com/sushankgghimire/piano.git) here.
+
+
+
+Two different version of chess Projects By [Prabin Bohora](https://github.com/prabinbohara10) 
+
+[Computer-chess code](https://github.com/prabinbohara10/Computer-Chess.git)
+
+[Network Chess code](https://github.com/prabinbohara10/Network-Chess.git)
+
 
 
 
