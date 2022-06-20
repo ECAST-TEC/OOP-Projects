@@ -8,18 +8,22 @@ based on OOPs and using C++.
 So, here it is, you can find it here the sample projects....
 
 
-1.This is the C++ project By [Abhinav Chalise](https://github.com/AC17dollars) and his team.
+**077 BEI **
+
+This is the C++ project By [Abhinav Chalise](https://github.com/AC17dollars) and his team.
 
 This is the project of the game Wordle made using OOP.
 
 Check out his [Wordle](https://github.com/AC17dollars/cpp-wordle-clone.git) repository.
 
 
-2.Another C++ project is 128game by [Rijan Ghimire](https://github.com/rijan7ghimire) and his team.
+Another C++ project is 128game by [Rijan Ghimire](https://github.com/rijan7ghimire) and his team.
 
 check out his [128 game](https://github.com/rijan7ghimire/128game) repository.
 
-3.This C++ project is a Piano. Yes a Piano By Sushak Ghimire and his team.
+**076 BCT**
+
+This C++ project is a Piano. Yes a Piano By Sushak Ghimire and his team.
 
 check his [Piano](https://gitlab.com/sushankgghimire/piano.git) here.
 
