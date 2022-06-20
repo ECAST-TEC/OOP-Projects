@@ -1,7 +1,7 @@
 # OOP-Projects
 This repository  contains the git links of the OOP projects done by the students of Thapathali Campus.
 
-This is a simple repository just to help anyone starting out with concept of OOP and wondering what project https://gitlab.com/sushankgghimire/piano.git
+This is a simple repository just to help anyone starting out with concept of OOP and wondering what project
 to carry on. 
 Being a student we at our time were confused about what project to do and where can we get the sample projects 
 based on OOPs. 
