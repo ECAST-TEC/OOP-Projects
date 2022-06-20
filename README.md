@@ -1,7 +1,7 @@
 # OOP-Projects
 This repository  contains the git links of the OOP projects done by the students of Thapathali Campus.
 
-This is a simple repository just to help anyone starting out with concept of OOP and wondering what project 
+This is a simple repository just to help anyone starting out with concept of OOP and wondering what project https://gitlab.com/sushankgghimire/piano.git
 to carry on. 
 Being a student we at our time were confused about what project to do and where can we get the sample projects 
 based on OOPs. 
@@ -15,11 +15,11 @@ This is the project of the game Wordle made using OOP.
 Check out his [Wordle](https://github.com/AC17dollars/cpp-wordle-clone.git) repository.
 
 
-2.Another OOP project is 128game by [Rijan Ghimire](https://github.com/rijan7ghimire)
+2.Another OOP project is 128game by [Rijan Ghimire](https://github.com/rijan7ghimire) and his team.
 
 check out his [128 game](https://github.com/rijan7ghimire/128game) repository.
 
-3.This OOP project is a Piano. Yes a Piano By Sushak Ghimire.
+3.This OOP project is a Piano. Yes a Piano By Sushak Ghimire and his team.
 
 check his [Piano](https://gitlab.com/sushankgghimire/piano.git) here.
 
