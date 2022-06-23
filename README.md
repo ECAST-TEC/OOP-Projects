@@ -42,7 +42,7 @@ check out his [128 game](https://github.com/rijan7ghimire/128game) repository.
 check his [Piano](https://gitlab.com/sushankgghimire/piano.git) here.
 
 
-2.A cpp project called as [Reflex_o_type](https://github.com/bikrantbdr/Reflex_o_type.git)
+2. A cpp project called as [Reflex_o_type](https://github.com/bikrantbdr/Reflex_o_type.git)
 
 
 
@@ -53,10 +53,10 @@ check his [Piano](https://gitlab.com/sushankgghimire/piano.git) here.
 [Network Chess code](https://github.com/prabinbohara10/Network-Chess.git)
 
 
-4.A [space shooter game](https://github.com/Sudeep-K/SpaceShooter) based on C++ 
+4. A [space shooter game](https://github.com/Sudeep-K/SpaceShooter) based on C++ 
 
 
-5.A [productivity companion application](https://github.com/Despicable-Us/Productivity-Companion)
+5. A [Productivity Companion Application](https://github.com/Despicable-Us/Productivity-Companion)
 
 
 For Now we were only able to collect these projects. 
