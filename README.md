@@ -15,6 +15,10 @@ Flappy Bird by [Rijan Ghimire](https://github.com/rijan7ghimire)
 
    [Game](https://github.com/rijan7ghimire/fbird.git)
    
+A GUI based application by Dipu Dahal and his team
+
+check out his [repository](https://github.com/dipudl/Interactive-Dictionary-and-Paragraph-Autocorrect.git).
+   
 
 **076 BCT**
 
@@ -32,7 +36,7 @@ Another C++ project is 128game by [Rijan Ghimire](https://github.com/rijan7ghimi
 
 check out his [128 game](https://github.com/rijan7ghimire/128game) repository.
 
-
+Another projrct called [128](https://github.com/dipudl/128.git)
 
 
 **076 BCT**
@@ -59,11 +63,11 @@ check his [Piano](https://gitlab.com/sushankgghimire/piano.git) here.
 5. A [Productivity Companion Application](https://github.com/Despicable-Us/Productivity-Companion)
 
 
+
 For Now we were only able to collect these projects. 
 Soon more will be added.
 Be sure to check it out.
 
-Learning Conecept of OOP in Python If Yes [Check this out](https://github.com/Strange18/Comparing-python-and-Cpp.git)
 
 
 
