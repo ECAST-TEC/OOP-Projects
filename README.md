@@ -36,7 +36,7 @@ Another C++ project is 128game by [Rijan Ghimire](https://github.com/rijan7ghimi
 
 check out his [128 game](https://github.com/rijan7ghimire/128game) repository.
 
-Another projrct called [128](https://github.com/dipudl/128.git)
+Another project called [128](https://github.com/dipudl/128.git)
 
 
 **076 BCT**
