@@ -1,11 +1,5 @@
-# C and C++ Projects
-This repository  contains the git links of the C and C++ projects done by the students of Thapathali Campus.
+List of college projects by Students of Thapathali Engineering Campus 2076 Batch.
 
-This is a simple repository just to help anyone starting out with concept of OOP and wondering what project
-to carry on. 
-Being a student we at our time were confused about what project to do and where can we get the sample projects 
-based on OOPs and using C++.
-So, here it is, you can find it here the sample projects....
 
 **C Projects**
 
