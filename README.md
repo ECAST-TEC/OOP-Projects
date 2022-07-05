@@ -3,58 +3,47 @@ List of college projects by Students of Thapathali Engineering Campus 2076 Batch
 
 **C Projects**
 
-**076 BEI**
 
-Flappy Bird by [Rijan Ghimire](https://github.com/rijan7ghimire)
+*[Flappy Bird](https://github.com/rijan7ghimire/fbird.git) - Rijan Ghimire and his team (**076BEI**)
 
-   [Game](https://github.com/rijan7ghimire/fbird.git)
    
-A GUI based application by Dipu Dahal and his team
-
-check out his [repository](https://github.com/dipudl/Interactive-Dictionary-and-Paragraph-Autocorrect.git).
    
+ *[Interactive-Dictionary](https://github.com/dipudl/Interactive-Dictionary-and-Paragraph-Autocorrect) - Dipu Dahal and his team (**076BEI**)
 
-**076 BCT**
 
-Visit-Nepal-2020 by [Prabin Bohora](https://github.com/prabinbohara10)
+*[Visit-Nepal-2020](https://github.com/prabinbohara10/Visit-Nepal-2020.git) - Prabin Bohora and his team (**076 BCT**)
 
-[Repository](https://github.com/prabinbohara10/Visit-Nepal-2020.git)
 
 
 **C++ Projects**
 
 
-**076 BEI**
-
-Another C++ project is 128game by [Rijan Ghimire](https://github.com/rijan7ghimire) and his team.
-
-check out his [128 game](https://github.com/rijan7ghimire/128game) repository.
-
-Another project called [128](https://github.com/dipudl/128.git)
+*[128game](https://github.com/rijan7ghimire/128game) - Rijan Ghimire and his team (**076 BEI**)
 
 
-**076 BCT**
-
-1.This C++ project is a Piano. Yes a Piano By Sushak Ghimire and his team.
-
-check his [Piano](https://gitlab.com/sushankgghimire/piano.git) here.
-
-
-2. A cpp project called as [Reflex_o_type](https://github.com/bikrantbdr/Reflex_o_type.git)
+*[128](https://github.com/dipudl/128.git) - Dipu Dahal and his team (**076BEI**)
 
 
 
-3.Two different version of chess Projects By [Prabin Bohora](https://github.com/prabinbohara10) 
-
-[Computer-chess code](https://github.com/prabinbohara10/Computer-Chess.git)
-
-[Network Chess code](https://github.com/prabinbohara10/Network-Chess.git)
+*[Piano ](https://gitlab.com/sushankgghimire/piano.git) - Sushak Ghimire and his team(**076 BCT**)
 
 
-4. A [space shooter game](https://github.com/Sudeep-K/SpaceShooter) based on C++ 
+
+*[Reflex_o_type](https://github.com/bikrantbdr/Reflex_o_type.git)
 
 
-5. A [Productivity Companion Application](https://github.com/Despicable-Us/Productivity-Companion)
+
+*Two different version of chess Projects By Prabin Bohora and his team (**076 BCT**)
+
+*[Computer-chess code](https://github.com/prabinbohara10/Computer-Chess.git)
+
+*[Network Chess code](https://github.com/prabinbohara10/Network-Chess.git)
+
+
+*[space shooter game](https://github.com/Sudeep-K/SpaceShooter) - Sudeep Kaucha (**076 BCT**)
+
+
+*[Productivity Companion Application](https://github.com/Despicable-Us/Productivity-Companion)
 
 
 
