@@ -29,7 +29,7 @@ List of college projects by Students of Thapathali Engineering Campus 2076 Batch
 
 
 
-* [Reflex_o_type](https://github.com/bikrantbdr/Reflex_o_type.git)
+* [Reflex_o_type](https://github.com/bikrantbdr/Reflex_o_type.git) - Bikrant Bidari and his team (**076 BCT**)
 
 
 
