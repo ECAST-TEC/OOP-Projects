@@ -4,7 +4,7 @@ List of college projects by Students of Thapathali Engineering Campus 2076 Batch
 **C Projects**
 
 
-*[Flappy Bird](https://github.com/rijan7ghimire/fbird.git) - Rijan Ghimire and his team (**076BEI**)
+* [Flappy Bird](https://github.com/rijan7ghimire/fbird.git) - Rijan Ghimire and his team (**076BEI**)
 
    
    
