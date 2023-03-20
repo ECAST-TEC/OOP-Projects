@@ -33,11 +33,11 @@ List of college projects by Students of Thapathali Engineering Campus 2076 Batch
 
 
 
-Two different version of chess Projects By Prabin Bohora and his team (**076 BCT**)
+* Two different version of chess Projects By Prabin Bohora and his team (**076 BCT**)
 
-* [Computer-chess code](https://github.com/prabinbohara10/Computer-Chess.git)
+    - [Computer-chess code](https://github.com/prabinbohara10/Computer-Chess.git)
 
-* [Network Chess code](https://github.com/prabinbohara10/Network-Chess.git)
+    - [Network Chess code](https://github.com/prabinbohara10/Network-Chess.git)
 
 
 * [space shooter game](https://github.com/Sudeep-K/SpaceShooter) - Sudeep Kaucha (**076 BCT**)
@@ -46,11 +46,9 @@ Two different version of chess Projects By Prabin Bohora and his team (**076 BCT
 * [Productivity Companion Application](https://github.com/Despicable-Us/Productivity-Companion)
 
 
+**Minor Project**
 
-For Now we were only able to collect these projects. 
-Soon more will be added.
-Be sure to check it out.
-
+* [The Dorm den](https://github.com/bikrantbdr/TheDormDen) - Bikrant,Sudeep,Arahanta & Sameer (**076 BCT**)
 
 
 
