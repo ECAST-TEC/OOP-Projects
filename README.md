@@ -45,7 +45,7 @@ Projects Made using C++ programming langugage for OOP.
 * [The Dorm den](https://github.com/bikrantbdr/TheDormDen)  
     - Bikrant,Sudeep,Arahanta & Sameer (**076 BCT**)
 
-* [Comparative Study for Grammar Error Correction using Encoder-Decoder and T5 Transformer model](https://github.com/GrishmaKhanal/GEC_Django) (**076 BCT**)
-    - By: [Anuj](https://github.com/anuj-raymajhi), [Anup](), [Grishma](https://github.com/grishmakhanal), [Kaustuv](https://github.com/Kaustuv-Karki) 
+* [Comparative Study for Grammar Error Correction using Encoder-Decoder and T5 Transformer model](https://github.com/GrishmaKhanal/GEC_Django) 
+    - Anuj, Anup, Grishma, Kaustuv (**076 BCT**)
 
 
